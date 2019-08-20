@@ -2,10 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-img { border-radius: .5rem; }
+img { border-radius: 0.5rem; }
 footer { text-align: right; }
 @media print, screen and (max-width: 960px) {
-  footer {
-    text-align: left
-  },
+  footer { text-align: left },
 }
