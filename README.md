@@ -27,15 +27,6 @@ Koduleht:	madisvaher.ee
 ## Keeled: 			
 Eesti keel – emakeel  
 Inglise keel – väga hea nii kõnes kui kirjas 
-
-## Loominguline tegevus:
-
-Kunstiüritustesari „Machina Ex Deus“ korraldus  
-Üritustesarja „Pohuidisko“ korraldus  
-Näitus „Paanika!“ koos Maila-Juns Veldrega  
-Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
-Näitused noorte kunstnike rühmitusega “Kontrast”  
-Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”
  
 ## Kujundustööd:	
 
@@ -54,6 +45,15 @@ Kuressaare Disainimajaka logo kujundus
 Kuressaare Merepäevad 2010 trükised ja veebigraafika  
 Kuressaare Ametikooli logo kujundus  
 UNICEF Sinine Nädal Kuressaares 2009 trükised ja kodulehekülg
+
+## Loominguline tegevus:
+
+Kunstiüritustesari „Machina Ex Deus“ korraldus  
+Üritustesarja „Pohuidisko“ korraldus  
+Näitus „Paanika!“ koos Maila-Juns Veldrega  
+Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
+Näitused noorte kunstnike rühmitusega “Kontrast”  
+Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”
 
 ## Arvutioskus:
 
