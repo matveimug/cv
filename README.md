@@ -57,7 +57,8 @@ Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND A
 
 ## Arvutioskus:
 
-Html, CSS, Javascript, Less & Sass, Vue, Backbone, React-Native
+Vue, Backbone, React-Native, Git
+Less, Sass, Html, CSS, Javascript,
 Windows, OS X, Adobe, Blender, C4d
 
 ## Muud andmed:
