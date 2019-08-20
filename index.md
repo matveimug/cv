@@ -21,7 +21,7 @@ Koduleht:	madisvaher.ee
 ## Töökogemus:  	 		
 
 2017 – 2019 &ensp; Front-end programmeerija SARP Online-s  
-2010 – &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &ensp; Kutseõpetaja Kuressaare Ametikoolis, arvutigraafika ja 3D kursused  
+2010 – &ensp; Kutseõpetaja Kuressaare Ametikoolis, arvutigraafika ja 3D kursused  
 2003 – 2009 &ensp; FIE
 
 ## Keeled: 			
