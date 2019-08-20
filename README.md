@@ -5,7 +5,6 @@
  
 Nimi: Madis Vaher  
 Sünnikuupäev: 15 Juuni, 1988  
-Aadress: Kevade tn. 4, Orissaare, Saaremaa 
 
 Telefon: 56 657 676  
 E-mail: madis.vaher@gmail.com  
