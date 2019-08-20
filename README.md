@@ -29,7 +29,7 @@ Inglise keel – väga hea nii kõnes kui kirjas
 
 ## Arvutioskus:
 
-Vue, Backbone, React-Native, Git  
+Vue, Backbone, React-Native, Git, Wordpress  
 Less, Sass, Html, CSS, Javascript  
 Windows, OS X, Adobe, Blender, C4d  
  
