@@ -40,7 +40,8 @@ Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND A
 ## Kujundustööd:	
 
 Thule Koda interaktiivsete ekraanide tehniline teostus  
-Saaremaa Rally 2018 kodulehekülg  
+Saaremaa Rally 2018 kodulehekülg
+Mamas' Heaven androidi-rakenduse kujundus ja arendus
 Oskuste Aasta 2017 kujundus ja kodulehekülg  
 Kontrast I & Kontrast II kujundus ja kodulehekülg  
 Thule kunstitänav Raikivi Säärel kujundus  
