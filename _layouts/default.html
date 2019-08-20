@@ -13,9 +13,15 @@
   </head>
   <body>
     <div class="wrapper">
+      
       <header>
         <img src="{{ site.github.owner_gravatar_url }}" alt="{{ site.github.owner_name }}">
       </header>  
+      
+      <section>
+      {{ content }}
+      </section>
+      
       <footer>
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
@@ -29,11 +35,7 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
       </footer>
-      <section>
-
-      {{ content }}
-
-      </section>
+      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
