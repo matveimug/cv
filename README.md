@@ -27,6 +27,12 @@ Koduleht:	madisvaher.ee
 ## Keeled: 			
 Eesti keel – emakeel  
 Inglise keel – väga hea nii kõnes kui kirjas 
+
+## Arvutioskus:
+
+Vue, Backbone, React-Native, Git  
+Less, Sass, Html, CSS, Javascript  
+Windows, OS X, Adobe, Blender, C4d  
  
 ## Kujundustööd:	
 
@@ -54,12 +60,6 @@ Näitus „Paanika!“ koos Maila-Juns Veldrega
 Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
 Näitused noorte kunstnike rühmitusega “Kontrast”  
 Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”
-
-## Arvutioskus:
-
-Vue, Backbone, React-Native, Git  
-Less, Sass, Html, CSS, Javascript  
-Windows, OS X, Adobe, Blender, C4d  
 
 ## Muud andmed:
 
