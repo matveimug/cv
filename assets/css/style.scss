@@ -20,3 +20,6 @@ img { border-radius: 0.5rem; }
   }
   footer { text-align: left },
 }
+@media print {    
+  img { display: none !important; }
+}
