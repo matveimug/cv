@@ -19,7 +19,7 @@ Koduleht:	madisvaher.ee
 
 ## Töökogemus:  	 		
 
-2020 –      UX/UI & Front-end @ Madius OÜ / North Coast Code
+2020 –      UX/UI & Front-end @ Madius OÜ / North Coast Code  
 2019 – 2020 Front-end arendaja NEWAY-s  
 2017 – 2019 Front-end arendaja SARP Online-s  
 2010 – Kutseõpetaja Kuressaare Ametikoolis, arvutigraafika ja 3D kursused  
