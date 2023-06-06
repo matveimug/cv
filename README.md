@@ -60,7 +60,9 @@ Kunstiüritustesari „Machina Ex Deus“ korraldus
 Näitus „Paanika!“ koos Maila-Juns Veldrega  
 Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
 Näitused noorte kunstnike rühmitusega “Kontrast”  
-Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”
+Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”  
+Isiknäitus „Läbi hägu / Through a scanner!“ Kuressaare Raegaleriis  
+Osalemine näitusel „U Touch U Die” WOW keskuses  
 
 ## Muud andmed:
 
