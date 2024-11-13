@@ -29,10 +29,10 @@ Koduleht:	madisvaher.ee
 Eesti keel – emakeel  
 Inglise keel – väga hea nii kõnes kui kirjas 
 
-## Arvutioskus:
+## Kogemus raamistike, keelte & programmidega:
 
-Vue, Backbone, React-Native, Git, Wordpress  
-Less, Sass, Html, CSS, Javascript  
+React, NextJS, Vue, Backbone, Git,  
+Styled Components, Sass, CSS, HTML,
 Windows, OS X, Adobe, Blender, C4d  
  
 ## Kujundustööd:	
@@ -55,14 +55,14 @@ UNICEF Sinine Nädal Kuressaares 2009 trükised ja kodulehekülg
 
 ## Loominguline tegevus:
 
-Kunstiüritustesari „Machina Ex Deus“ korraldus  
-Üritustesarja „Pohuidisko“ korraldus  
-Näitus „Paanika!“ koos Maila-Juns Veldrega  
-Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
-Näitused noorte kunstnike rühmitusega “Kontrast”  
-Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”  
-Isiknäitus „Läbi hägu / Through a scanner!“ Kuressaare Raegaleriis  
 Osalemine näitusel „U Touch U Die” WOW keskuses  
+Isiknäitus „Läbi hägu / Through a scanner!“ Kuressaare Raegaleriis  
+Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”  
+Näitused noorte kunstnike rühmitusega “Kontrast”  
+Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
+Näitus „Paanika!“ koos Maila-Juns Veldrega  
+Üritustesarja „Pohuidisko“ korraldus  
+Kunstiüritustesari „Machina Ex Deus“ korraldus
 
 ## Muud andmed:
 
