@@ -4,6 +4,6 @@ relative_links:
   enabled: false
   collections: true
 include:
-  - README.md
+  - index.md
 
 theme: jekyll-theme-minimal
