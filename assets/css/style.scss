@@ -6,14 +6,16 @@
   width: 70%;
 }
 section {
-    width: 500px;
-    float: none;
-    padding: 0 1rem;
-    margin-left: 50%;
+  position: absolute;
+  width: 500px;
+  float: none;
+  padding: 0 1rem;
+  left: 40%;
 }
 header, footer {
+  position: fixed;
   float: none;
-  right: 50%;
+  right: 60%;
   padding-right: 1rem;
 }
 footer { text-align: right; }
