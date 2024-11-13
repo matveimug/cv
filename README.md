@@ -32,7 +32,7 @@ Inglise keel – väga hea nii kõnes kui kirjas
 ## Kogemus raamistike, keelte & programmidega:
 
 React, NextJS, Vue, Backbone, Git,  
-Styled Components, Sass, CSS, HTML,
+Styled Components, Sass, CSS, HTML,  
 Windows, OS X, Adobe, Blender, C4d  
  
 ## Kujundustööd:	
