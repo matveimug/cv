@@ -38,8 +38,8 @@ Windows, OS X, Adobe, Blender, C4d
 ## Kujundustööd:	
 
 Thule Koda interaktiivsete ekraanide tehniline teostus  
-Saaremaa Rally 2018 kodulehekülg
-Mamas' Heaven androidi-rakenduse kujundus ja arendus
+Saaremaa Rally 2018 kodulehekülg  
+Mamas' Heaven androidi-rakenduse kujundus ja arendus  
 Oskuste Aasta 2017 kujundus ja kodulehekülg  
 Kontrast I & Kontrast II kujundus ja kodulehekülg  
 Thule kunstitänav Raikivi Säärel kujundus  
@@ -55,8 +55,10 @@ UNICEF Sinine Nädal Kuressaares 2009 trükised ja kodulehekülg
 
 ## Loominguline tegevus:
 
+Äramärkimine kunstivõistlusel "Saaremaa kunstiteos" 2024 „Tuikab - tuksub“  
 Osalemine näitusel „U Touch U Die” WOW keskuses  
 Isiknäitus „Läbi hägu / Through a scanner!“ Kuressaare Raegaleriis  
+Äramärkimine kunstivõistlusel "Saaremaa kunstiteos" 2020 „Uus reaalsus“  
 Osalemine kunstnikuna festivalil “I LAND SOUND”, järelnäitusel “I LAND ART”  
 Näitused noorte kunstnike rühmitusega “Kontrast”  
 Osalemine Kuressaare Ametikooli ning Kuressaare Kunstiklubi ühisnäitustel  
